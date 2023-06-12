@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/order-man-app/static/css/main.6a6638dd.css",
+    "main.css": "/order-man-app/static/css/main.07f0e524.css",
     "main.js": "/order-man-app/static/js/main.9eda2dba.js",
     "static/js/787.8a623564.chunk.js": "/order-man-app/static/js/787.8a623564.chunk.js",
     "index.html": "/order-man-app/index.html",
-    "main.6a6638dd.css.map": "/order-man-app/static/css/main.6a6638dd.css.map",
+    "main.07f0e524.css.map": "/order-man-app/static/css/main.07f0e524.css.map",
     "main.9eda2dba.js.map": "/order-man-app/static/js/main.9eda2dba.js.map",
     "787.8a623564.chunk.js.map": "/order-man-app/static/js/787.8a623564.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a6638dd.css",
+    "static/css/main.07f0e524.css",
     "static/js/main.9eda2dba.js"
   ]
 }
